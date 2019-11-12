@@ -2,7 +2,7 @@
 MAA2018-84 Improving outcomes for young adults through effective service delivery
 
 ## Overview
-This repo contains the Impact Lab social outcomes and cost estimates. This is a temporary location while we work on a better place to share open data.
+This repo contains the social outcomes and cost estimates. This is a temporary location while we work on a better place to share open data.
 
 ## License
 Data is licensed under Creative Commons Zero v1.0 Universal license. A summary of this license can be found [here](https://creativecommons.org/publicdomain/zero/1.0/).
